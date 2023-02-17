@@ -8,7 +8,12 @@
 
 I am Sabina Nossová, a **Junior Web Developer**. 
 
-In 2022, I graduated with a bachelor's degree of Theory of Interactive Media , where I tasted the world of programming for the first time in my life. From the beginning, I wasn't sure if it was the field for me, but I love learning and trying new things in. 
+In 2022, I graduated with a bachelor's degree of Theory of Interactive Media , where I tasted the world of programming for the first time in my life. From the beginning, I wasn't sure if it was the field for me, but after first week learning basics of HTML 5 and CSS 3  I fell in love with it immediately. 
+
+To facilitate learning, I successfully completed a 3-month retraining course focused on JavaScript, Node.js, Responsive web design, Bootstrap and Manual testing.
+
+![Beige Minimal Business Timeline Diagram Graph (1080 × 1920 px) (1920 × 1080 px)](https://user-images.githubusercontent.com/111659581/219676784-fdf3585e-d023-4395-8467-874708590dc9.png)
+
 
 
 <!--
