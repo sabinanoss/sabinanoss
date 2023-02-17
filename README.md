@@ -14,7 +14,7 @@ To facilitate learning, I successfully completed a 3-month retraining course foc
 
 ![Beige Minimal Business Timeline Diagram Graph (1080 × 1920 px) (1920 × 1080 px)](https://user-images.githubusercontent.com/111659581/219676784-fdf3585e-d023-4395-8467-874708590dc9.png)
 
-✨I am also actively looking for a job in web development. I am open to FE or BE position or Manual tester position.
+# ✨I am also actively looking for a job in web development. I am open to FE or BE position or Manual tester position.✨
 
 <!--
 **sabinanoss/sabinanoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
