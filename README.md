@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![My photo](file:///Users/sabinanossova/Downloads/Beige%20Simple%20Elegant%20Personal%20LinkedIn%20Banner-4.png)
+![Beige Simple Elegant Personal LinkedIn Banner-4](https://user-images.githubusercontent.com/111659581/219660672-5308e298-2b9b-4fe8-af9e-1f6a51062c0d.png)
+
 
 <!--
 **sabinanoss/sabinanoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
