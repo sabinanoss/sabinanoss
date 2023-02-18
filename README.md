@@ -12,9 +12,9 @@ In 2022, I graduated with a bachelor's degree of Theory of Interactive Media , w
 
 To facilitate learning, I successfully completed a 3-month retraining course focused on JavaScript, Node.js, Responsive web design, Bootstrap and Manual testing. I am currently continuing to study frameworks and other technologies. see my learning timeline below.
 
-![Beige Minimal Business Timeline Diagram Graph (1080 × 1920 px) (1920 × 1080 px)](https://user-images.githubusercontent.com/111659581/219676784-fdf3585e-d023-4395-8467-874708590dc9.png)
+![my-learning-timeline](https://user-images.githubusercontent.com/111659581/219901709-e18e9733-3e45-4216-87fa-9105faeee02d.png)
 
-# ✨I am also actively looking for a job in web development. I am open to FE or BE positions or Manual tester position.✨
+## ✨I am also actively looking for a job in web development. I am open to FE or BE positions or Manual tester position.✨
 
 <!--
 **sabinanoss/sabinanoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
