@@ -4,7 +4,7 @@
 
 ![Beige Simple Elegant Personal LinkedIn Banner-4](https://user-images.githubusercontent.com/111659581/219660672-5308e298-2b9b-4fe8-af9e-1f6a51062c0d.png)
 
-# ✨I'm actively looking looking for a job in web development. I am open to FE or BE positions or Manual tester position.✨
+### ✨I'm actively looking looking for a job in web development. I am open to FE or BE positions or Manual tester position.✨
 
 # About me 👩🏼
 
