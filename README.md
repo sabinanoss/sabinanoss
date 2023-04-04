@@ -12,11 +12,7 @@ I am Sabina Nossová, a **Junior Web Developer** from Czech republic.
 
 In 2022, I graduated with a bachelor's degree of Theory of Interactive Media , where I tasted the world of programming for the first time in my life. From the beginning, I wasn't sure if it was for me, but after first week learning basics of HTML 5 and CSS 3  I fell in love with it immediately. 
 
-To facilitate learning, I successfully completed a 3-month retraining course focused on JavaScript, Node.js, Responsive web design, Bootstrap and Manual testing. I am currently continuing to study frameworks and other technologies. see my learning timeline below.
-
-![my-learning-timeline](https://user-images.githubusercontent.com/111659581/219901709-e18e9733-3e45-4216-87fa-9105faeee02d.png)
-
-
+To facilitate learning, I successfully completed a 3-month retraining course focused on JavaScript, Node.js, Responsive web design, Bootstrap and Manual testing. I am currently continuing to study frameworks and other technologies.
 <!--
 **sabinanoss/sabinanoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
