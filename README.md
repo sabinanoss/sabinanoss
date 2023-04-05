@@ -4,7 +4,7 @@
 
 ![my-hero](https://user-images.githubusercontent.com/111659581/230103756-51e92453-b780-4149-8378-2867560cfc15.png)
 
-### ✨I'm actively looking looking for a job in web development. I am open to Front-end web developer position.✨
+### ✨I'm actively looking for a job in web development. I am open to Front-end web developer position.✨
 
 # About me 👩🏼
 
