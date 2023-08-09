@@ -4,8 +4,6 @@
 
 ![github-hero](https://github.com/sabinanoss/sabinanoss/assets/111659581/11511e5a-cbd6-4f5b-9504-79ecf8834844)
 
-### ✨I'm actively looking for a job in web development. I am open to Front-end web developer position.✨
-
 # About me 👩🏼
 
 I am Sabina Nossová, a **Junior Front-end Web Developer** from Czech republic. 
